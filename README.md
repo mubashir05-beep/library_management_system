@@ -7,7 +7,7 @@ A simple Library Management System implemented in C++. This project utilizes obj
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-
+- [Screenshots](#screenshots)
   
 
 ## Features
@@ -24,4 +24,4 @@ A simple Library Management System implemented in C++. This project utilizes obj
 - C++ Compiler (e.g., g++)
 - Git (optional but recommended)
 
-
+## Screenshots
