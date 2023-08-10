@@ -1,6 +1,5 @@
 # Library Management System - C++ Project
 
-![GitHub](https://img.shields.io/github/license/your-username/library-management-system-cpp)
 
 A simple Library Management System implemented in C++. This project utilizes object-oriented programming principles, exceptional handling, and file handling to streamline library operations, manage books and members efficiently, and ensure smooth error handling and data persistence.
 
